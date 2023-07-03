@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajnegi0226
+- 👋 Hi, I’m raj negi
 - 👀 I’m interested in Data Science and Analytics 
 - 🌱 I’m currently learning Deep Learning/java/JavaScript 
 - 💞️ I’m looking to collaborate on Machine Learning projects and Generative AI projects
