@@ -6,7 +6,7 @@
 <div>
   <a href ="https://www.linkedin.com/in/vivek-negi-40a467252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt ="LinkedIn">
   </a>
-  <a href="mailto:wervlad1@gmail.com">
+  <a href="mailto:vn7455861496@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </div>
