@@ -1,6 +1,6 @@
 - 👋 Hi, I’m raj negi
 - 👀 I’m interested in Data Science and Analytics 
-- 🌱 I’m currently learning Machine Learning,Deep Learning,Python,java,JavaScript 
+- 🌱 I’m currently learning Machine Learning,Deep Learning,Python,java, dart
 - 💞️ I’m looking to collaborate on Machine Learning projects and Generative AI projects
 - 📫 You can contact me on LinkedIn and Email
 <div>
